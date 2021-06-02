@@ -1,4 +1,4 @@
-Hello, Horsen!
+Hello, Horsen! Hello, world!
 Hello, Horsen!
 Hello, Horsen!
 Hello, Horsen!
