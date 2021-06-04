@@ -14,5 +14,5 @@ Hello, Horsen!
 Hello, Horsen!
 Hello, Horsen!
 Hello, Horsen!
-Hello, Horsen! master test.
-Hello, Horsen!
+Hello, Horsen! master and hot-fix test.
+Hello, Horsen! 
